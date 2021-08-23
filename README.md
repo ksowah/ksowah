@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **ksowah/ksowah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksowah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksowah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksowah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksowah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ksowah&theme=github_dark)
