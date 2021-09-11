@@ -1,5 +1,5 @@
 ### Hi there 👋
- -🌱 I’m currently learning Java Script.
+ -🌱 I’m currently learning Java Script
  -📫 How to reach me: sowahkelvin640@gmail.com, WhatsApp +233 (0) 201691439
 
 <!--
