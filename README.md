@@ -1,5 +1,5 @@
 ### Hi there 👋
- .🌱 I’m currently learning Java Script<br />
+ .🌱 I’m currently learning how to use RESTful APIs to build useful web applications<br />
  .📫 How to reach me: sowahkelvin640@gmail.com, WhatsApp +233 (0) 201691439
 
 <!--
