@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksowah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksowah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksowah&theme=github_dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ksowah&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ksowah&theme=github_dark)
