@@ -1,6 +1,6 @@
 ### Hi there 👋
  .🌱 I’m currently learning....<br />
- .📫 How to reach me: sowahkelvin640@gmail.com, WhatsApp +233 (0) 201691439
+ .📫 How to reach me: sowahkelvin640@gmail.com, [linkedin](https://www.linkedin.com/in/kelvin-sowah-174356211/), WhatsApp +233 (0) 201691439
 
 <!--
 **ksowah/ksowah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
